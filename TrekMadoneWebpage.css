@@ -58,13 +58,15 @@ body{
 
 }
 
-
-.treksite a{
-  font-size: 15pt;
-  align-items: center;
+.treksite {
+  text-align: center;
   margin-right: auto;
   margin-top: 25px;
   margin-bottom: 10px;
+}
+
+.treksite a {
+  font-size: 15pt;
 }
 
 
