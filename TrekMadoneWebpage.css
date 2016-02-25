@@ -1,6 +1,6 @@
 
 body{
-  background-color: red;
+  background-color: grey;
 }
 
 .wheel img{
@@ -31,10 +31,32 @@ body{
 
 }
 
+.bar img{
+  width: 50%;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto 0 auto;
+  display: block;
+
+}
+
 .bike img{
     width: 70%;
     max-width: 1200px;
     height: auto;
     margin: 0 auto 0 auto;
     display: block;
+}
+
+.bike p{
+  font-size: 30pt;
+  font-style: bold;
+  color: maroon;
+
+}
+
+
+.treksite a{
+  font-size: 15pt;
+  margin: 50px;
 }
