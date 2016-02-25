@@ -22,11 +22,19 @@ body{
 
 }
 
-.drivetrain img{
+.decoupler img{
   width: 50%;
   max-width: 600px;
   height: auto;
   margin: 0 auto 0 auto;
   display: block;
 
+}
+
+.bike img{
+    width: 70%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    display: block;
 }
