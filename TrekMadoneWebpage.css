@@ -1,6 +1,6 @@
 
 body{
-  background-color: grey;
+  background-color: #F5F5F5;
 }
 
 .wheel img{
@@ -52,7 +52,7 @@ body{
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  font-size: 30pt;
+  font-size: 20pt;
   font-style: bold;
   color: maroon;
 
@@ -63,16 +63,26 @@ body{
   font-size: 15pt;
   align-items: center;
   margin-right: auto;
-  margin-top: 10px;
+  margin-top: 25px;
   margin-bottom: 10px;
 }
 
 
 
+.intro p{
+  font-size: 15pt;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: serif;
 
+}
 
 h1 {
   width: 100%;
+  margin-bottom: 20px;
   margin-right: auto;
   margin-left: auto;
   color: #DC143C;
@@ -85,9 +95,10 @@ h1 {
 
 h2 {
   width: 80%;
+  margin-bottom: 30px;
   margin-right: auto;
   margin-left: auto;
-  color: white;
+  color: grey;
   font-family: sans-serif;
   font-style: italic;
   font-size: 25pt;
