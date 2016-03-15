@@ -100,8 +100,9 @@ font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Tim
 
 .treksite a {
   font-size: 18pt;
+  text-decoration: none;
+  color: maroon;
 }
-
 
 
 .intro p{
